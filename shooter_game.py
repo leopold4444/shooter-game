@@ -1,4 +1,5 @@
 #Создай собственный Шутер!
+#123
 from random import*
 from pygame import*
 from time import time as timer
